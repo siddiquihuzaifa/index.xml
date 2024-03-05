@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<personalData>
+    <user id="1">
+        <firstName>huzafa
+        </firstName>
+        <lastName>
+            siddiqui
+        </lastName>
+        <email>
+            huzaifasiddiqui@gmail.com
+        </email>
+
+    </user>
+    <user id="2">
+        <firstName>huzafa
+        </firstName>
+        <lastName>
+            siddiqui
+        </lastName>
+        <email>
+            huzaifasiddiqui@gmail.com
+        </email>
+
+    </user>
+    <user id="3">
+        <firstName>huzafa
+
+        </firstName>
+        <lastName>
+            siddiqui
+        </lastName>
+        <email>
+            huzaifasiddiqui@gmail.com
+        </email>
+
+    </user>
+</personalData>
